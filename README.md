@@ -10,9 +10,20 @@ Backend developer with a strong transition to **Applied AI & LLM Systems**. From
 
 Philosophy: AI fails due to poor engineering, not models. I focus on architecture, evaluation (RAGAS), observability, and real impact.
 
-## Live Demos (Streamlit + Gemini Free Tier)
+## Live Demos 
+
+### (Streamlit + Gemini Free Tier)
 - **[Theological LangGraph Agent](https://theological-langgraph-agent-test.streamlit.app/)**: Multi-agent biblical analysis (parallel execution, LangGraph + FastAPI + Streamlit)
 - **[RAG + RAGAS Evaluation (Insurance/Legal Docs)](https://rag-evaluation-contracts-ragas.streamlit.app/)**: Agentic RAG with adaptive chains, rerank, HyDE, composite scoring
+
+### Hugging Face Spaces Demos (Practical ML Models)
+- **[Essay Grader (DistilBERT Fine-Tuned)](https://huggingface.co/spaces/isop90/essay_eval)**  
+  Regression model for essay scoring (0-10) – MAE 1.09 using HF Trainer & Torch  
+  *(Link direto: https://huggingface.co/spaces/isop90/essay-grader – ajuste se o nome do Space for diferente)*
+- **[Background Removal](https://huggingface.co/spaces/isop90/Remove_image_background)**  
+  Instant image background remover using fine-tuned vision model
+- **[Simple Chatbot](https://huggingface.co/spaces/isop90/simple_chatbot_app)**  
+  Basic conversational interface with LLM integration
 
 ## Highlighted Projects
 - [theological-langgraph-agent](https://github.com/235471/theological-langgraph-agent) → Multi-agent theological exegesis
