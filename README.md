@@ -34,8 +34,3 @@ More: LangGraph • RAGAS • Torch • FastAPI • Streamlit • pgvector/Pinec
   <img src="https://github-readme-stats-fast.vercel.app/api?username=235471&show_icons=true&theme=radical&cache_seconds=43200" alt="GitHub Stats" />
   <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=235471&layout=compact&theme=radical&hide_border=true" alt="Top Languages" /> <!-- Opcional: card de linguagens -->
 </div>
-
-<div align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=235471&show_icons=true&theme=radical&cache_seconds=43200" alt="Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=235471&theme=radical&hide_border=true" alt="Streak" />
-</div>
