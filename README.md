@@ -31,6 +31,11 @@ More: LangGraph • RAGAS • Torch • FastAPI • Streamlit • pgvector/Pinec
 - 🤗 Hugging Face: [huggingface.co/isop90](https://huggingface.co/isop90)
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=235471&show_icons=true&theme=radical" alt="Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=235471&theme=radical" alt="Streak" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=235471&show_icons=true&theme=radical&cache_seconds=43200" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=235471&layout=compact&theme=radical&hide_border=true" alt="Top Languages" /> <!-- Opcional: card de linguagens -->
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=235471&show_icons=true&theme=radical&cache_seconds=43200" alt="Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=235471&theme=radical&hide_border=true" alt="Streak" />
 </div>
