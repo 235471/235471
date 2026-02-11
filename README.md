@@ -19,7 +19,6 @@ Philosophy: AI fails due to poor engineering, not models. I focus on architectur
 ### Hugging Face Spaces Demos (Practical ML Models)
 - **[Essay Grader (DistilBERT Fine-Tuned)](https://huggingface.co/spaces/isop90/essay_eval)**  
   Regression model for essay scoring (0-10) – MAE 1.09 using HF Trainer & Torch  
-  *(Link direto: https://huggingface.co/spaces/isop90/essay-grader – ajuste se o nome do Space for diferente)*
 - **[Background Removal](https://huggingface.co/spaces/isop90/Remove_image_background)**  
   Instant image background remover using fine-tuned vision model
 - **[Simple Chatbot](https://huggingface.co/spaces/isop90/simple_chatbot_app)**  
