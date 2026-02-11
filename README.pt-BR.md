@@ -10,9 +10,19 @@ Desenvolvedor backend com transição focada em **IA aplicada e sistemas LLM**. 
 
 Filosofia: IA falha por engenharia ruim, não por modelos. Foco em arquitetura, avaliação (RAGAS), observabilidade e impacto real.
 
-## Demos Ao Vivo (Streamlit + Gemini Free Tier)
-- **[Agente Teológico LangGraph](https://theological-langgraph-agent-test.streamlit.app/)**: Análise bíblica multi-agente (execução paralela, LangGraph + FastAPI + Streamlit)
-- **[RAG + Avaliação RAGAS (Documentos de Seguros/Contratos)](https://rag-evaluation-contracts-ragas.streamlit.app/)**: RAG agentic com chains adaptativas, rerank, HyDE e score composto
+## Demos ao Vivo
+
+### (Streamlit + Gemini Free Tier)
+- **[Theological LangGraph Agent](https://theological-langgraph-agent-test.streamlit.app/)**: Análise bíblica multiagente (execução paralela, LangGraph + FastAPI + Streamlit)
+- **[RAG + RAGAS Evaluation (Insurance/Legal Docs)](https://rag-evaluation-contracts-ragas.streamlit.app/)**: RAG com cadeias adaptativas, rerank, HyDE, pontuação composta
+
+### Hugging Face Spaces Demos (Practical ML Models)
+- **[Essay Grader (DistilBERT Fine-Tuned)](https://huggingface.co/spaces/isop90/essay_eval)**  
+  Modelo de regressão para pontuação de redações (0-10) – MAE 1.09 usando HF Trainer & Torch  
+- **[Background Removal](https://huggingface.co/spaces/isop90/Remove_image_background)**  
+  Removedor instantâneo de fundo de imagem usando modelo de visão computacional
+- **[Simple Chatbot](https://huggingface.co/spaces/isop90/simple_chatbot_app)**  
+  Interface conversacional básica com integração de LLM
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=4000&pause=1000&color=00FFAA&center=true&vCenter=true&width=500&lines=Hi!+I'm+Israel+Oliveira;Applied+AI+Engineer+%26+Backend+Dev;RAG+%7C+LangGraph+%7C+Fine-Tuning" alt="Typing SVG" />
